@@ -1,0 +1,17 @@
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\bin\Debug\net8.0-windows\CardIdentifier.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\bin\Debug\net8.0-windows\CardIdentifier.deps.json
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\bin\Debug\net8.0-windows\CardIdentifier.runtimeconfig.json
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\bin\Debug\net8.0-windows\CardIdentifier.dll
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\bin\Debug\net8.0-windows\CardIdentifier.pdb
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\obj\Debug\net8.0-windows\CardIdentifier.Form1.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\obj\Debug\net8.0-windows\CardIdentifier.csproj.GenerateResource.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\obj\Debug\net8.0-windows\CardIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\obj\Debug\net8.0-windows\CardIdentifier.AssemblyInfoInputs.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\obj\Debug\net8.0-windows\CardIdentifier.AssemblyInfo.cs
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\obj\Debug\net8.0-windows\CardIdentifier.csproj.CoreCompileInputs.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\obj\Debug\net8.0-windows\CardIdentifier.dll
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\obj\Debug\net8.0-windows\refint\CardIdentifier.dll
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\obj\Debug\net8.0-windows\CardIdentifier.pdb
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\obj\Debug\net8.0-windows\CardIdentifier.genruntimeconfig.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\obj\Debug\net8.0-windows\ref\CardIdentifier.dll
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 3 - Card Identifier\CardIdentifier\obj\Debug\net8.0-windows\CardIdentifier.Properties.Resources.resources
